@@ -77,6 +77,5 @@ $result = binarySearch($arr, 0, 5, 7);
 $result2 = binarySearch2($arr, 0, 5, 5);
 var_dump($result);
 var_dump($result2);
-
 $squareroot = squareRoot(3);
 var_dump($squareroot);
